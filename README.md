@@ -71,8 +71,8 @@ An interactive  Business Intelligence Dashboard that provides data analysis, vis
 
 Smart-Business-Dashboard/
 │
-├── app.py # Backup / experimental version (optional)
-├── app1(1).py # Main Streamlit application (final version)
+├── app.py  # Main Streamlit application (final version) 
+├── app_backup.py # Backup / experimental version (optional)
 ├── app.db # Application database 
 ├── users.db # User authentication database
 ├── pydeck.json # Map configuration (PyDeck visualization data)
